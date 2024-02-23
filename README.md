@@ -6,8 +6,8 @@
 - 🎓 Graduated in Nutrition from UFRN.
 
 ## My skills:
-- 👨‍💻 Languages: C, C++, Python, HTML, CSS, SQL.
-- 🧰 Frameworks: Django, Next.js, Bootstrap.
+- 👨‍💻 Languages: C, C++, Python, Java, HTML, CSS, SQL.
+- 🧰 Frameworks: Django, Spring Boot, Next.js, Bootstrap.
 -  🛠️ Tools: Git, Linux, Docker.
 
 ##
