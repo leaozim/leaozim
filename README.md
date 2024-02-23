@@ -1,14 +1,14 @@
 # Hi, humans! :v:
 
 ## About me:
-- My name is Larissa Silva! 
+- 🦁 My name is Larissa Silva! 
 - 👨‍🚀 I am currently a cadet (software engineering student) at 42 São Paulo.
 - 🎓 Graduated in Nutrition from UFRN.
 
 ## My skills:
 - 👨‍💻 Languages: C, C++, Python, Java, HTML, CSS, SQL.
 - 🧰 Frameworks: Django, Spring Boot, Next.js, Bootstrap.
--  🛠️ Tools: Git, Linux, Docker.
+- 🛠️ Tools: Git, Linux, Docker.
 
 ##
 
